@@ -26,7 +26,7 @@ The Task Management Application is a web-based tool that allows users to manage 
 
 ### Steps To Run Locally 
 1. start XAMPP sever (Apache sever, MySql sever).
-2. get the codes from "https://github.com/mac333AB/TaskManager/tree/main/src".
+2. get the codes from "https://github.com/mac333AB/TaskManager.git".
 3. put the codes in "htdocs" folder.
 4. run home.html using localhost link "http://localhost:8081//home.html".
 
