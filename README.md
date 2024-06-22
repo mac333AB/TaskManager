@@ -28,7 +28,8 @@ The Task Management Application is a web-based tool that allows users to manage 
 1. start XAMPP sever (Apache sever, MySql sever).
 2. get the codes from "https://github.com/mac333AB/TaskManager.git".
 3. put the codes in "htdocs" folder.
-4. run home.html using localhost link "http://localhost:8081//home.html".
+4. import the sql source file named 'assignment'(included in git repository) in the phpmyadmin  database for creating relaated database and table.
+5. run home.html using localhost link "http://localhost:8081//home.html".
 
 If you have any questions or suggestions, feel free to contact me at [macahishek1@gmail.com].
    
